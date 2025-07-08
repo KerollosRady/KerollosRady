@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  <b>Fresh Computer Science Graduate | ACPC Finalist</b><br>
+  <b>Fresh Computer Science Graduate</b><br>
   <em>Passionate about Software Engineering, and Competitive Programming</em>
 </p>
 
@@ -63,7 +63,7 @@
 
 ### 💻 Technical Skills
 
-`C/C++` · `C#` · `Python` · `Problem-Solving` · `Competitive Programming`  
+`C++` · `C#` · `Python` · `Problem-Solving` · `Competitive Programming`  
 `Data Structures & Algorithms` · `OOP` · `Git/GitHub`
 
 ---
