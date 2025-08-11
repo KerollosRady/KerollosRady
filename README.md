@@ -49,8 +49,9 @@
 - 🧠 I enjoy **competitive programming** and **problem solving**
 - ✅ Solved **2000+ problems** on multiple platforms, including [Codeforces](https://codeforces.com/profile/Keroo), [LeetCode](https://leetcode.com/KerollosRady/), and [AtCoder](https://atcoder.jp/users/KerollosRady)
 - ⚔️ Expert on [Codeforces](https://codeforces.com/profile/Keroo)
-- 🏆 [ACPC 2023 Finalist](https://icpc.global/ICPCID/9387FS96V7B3)
-- 🏆 [ECPC Finalist – 2023 & 2024](https://icpc.global/ICPCID/9387FS96V7B3)
+- 🏆 [ACPC Finalist 2023 & 2025](https://icpc.global/ICPCID/9387FS96V7B3)
+- 🏆 [ECPC Finalist – 2023 & 2024 & 2025](https://icpc.global/ICPCID/9387FS96V7B3)
+- 🏅 [ECPC 2025 Bronze Medalist](https://www.facebook.com/photo/?fbid=1261647022419102&set=a.668696001714210)
 - 🚀 [ACPC Kickoff 2025](https://icpc.global/ICPCID/9387FS96V7B3) – Ranked **46 / 2265**
 - 🥉 **3rd Place** – Algorithms Competition, Ain Shams University  
   <sub>Awarded for the most efficient solution with best max/avg runtime among 166 participants</sub>  
