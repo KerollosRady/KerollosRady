@@ -52,7 +52,7 @@
 - 🏆 [ACPC Finalist 2023 & 2025](https://icpc.global/ICPCID/9387FS96V7B3)
 - 🏆 [ECPC Finalist – 2023 & 2024 & 2025](https://icpc.global/ICPCID/9387FS96V7B3)
 - 🏅 [ECPC 2025 Bronze Medalist](https://www.facebook.com/photo/?fbid=1261647022419102&set=a.668696001714210)
-- 🚀 [ACPC Kickoff 2025](https://icpc.global/ICPCID/9387FS96V7B3) – Ranked **46 / 2265**
+- 🚀 [ACPC Kickoff 2025](https://icpc.global/ICPCID/9387FS96V7B3) – Ranked **46 / 4332**
 - 🥉 **3rd Place** – Algorithms Competition, Ain Shams University  
   <sub>Awarded for the most efficient solution with best max/avg runtime among 166 participants</sub>  
   📄 [View Certificate](https://drive.google.com/file/d/1rh1unenpcevxiY2lkkqCoua_NaRvuAjE/view?usp=sharing)
